@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Gif Card Component Tests Check Gif Card Test Show Correctly 1`] = `
+<div
+  className="card"
+>
+  <img
+    alt="titulo del gif"
+    height="100px"
+    src="http://imagenes.com/45"
+  />
+  <p>
+    titulo del gif
+  </p>
+</div>
+`;
